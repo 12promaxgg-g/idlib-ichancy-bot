@@ -4,7 +4,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8506689609:AAFtVMoLq4vjQSJkJD2WJcUf50f-CFNbjaA")
 ADMIN_ID = 6184030488
 BOT_USERNAME = "idlib_ichancy_bot"
 
